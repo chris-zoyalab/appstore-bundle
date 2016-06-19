@@ -6,6 +6,9 @@ Bundle used with DreamCommerce's Symfony applications. More documentation coming
 Changelog
 ---------
 
+``1.2.1``
+    - added workaround on 301-redirects with shop URL during install process
+
 ``1.2.0``
     - refactored URL-generating routines to make them compatible with Symfony 3.0
     - automatic messages errors are now passed-through instead of muting
